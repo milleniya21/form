@@ -1,5 +1,6 @@
 
 import './App.css';
+import Configure from './configure/configure';
 import Box from './desc_box/box';
 import Drop from './dropdown/drop';
 import Other from './elements/element';
@@ -15,6 +16,7 @@ function App() {
               <Box/>
               <Other/>
               <Tracker/>
+              <Configure/>
          </div>
     </div>
   );
