@@ -2,7 +2,35 @@
     margin : 0 20px 0 20px ;
     font-weight: bold;
 }
-#btn {
+#sort1 
+{
+    padding: 10px;
+    width: 90%;
+    border-radius: 10px;
+    font-size: medium;
+    margin-right:20px ;
+}
+#sort2
+{
+    padding: 10px;
+    width: 90%;
+    border-radius: 10px;
+    font-size: medium;
+    margin-right:20px ;
+}
+ #sort3 
+ {
+    padding: 10px;
+    width: 90%;
+    border-radius: 10px;
+    font-size: medium;
+    margin-right:20px ;
+ }
+
+button{
     color: rgb(116, 43, 116);
     background-color: white;
+    padding: 15px;
+    border: 1px solid  rgb(116, 43, 116) ;
+    border-radius: 5px;
 }
