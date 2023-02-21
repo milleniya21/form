@@ -1,19 +1,35 @@
-.Product_details
-{
-    display: flex;
+.title {
+font-style: normal;
+margin:0 20px 0 20px;
+}
+.title p{
+font-size:large;
+color: rgb(180, 180, 180);
+}
+  .Product_details
+
+{    display: flex;
     justify-content: start;
-    
-    margin:0 20px 0 20px;
 }
  .col-1
  {
-    
+  width: 100%;
  }
  .col-2
  {
-   padding-left: 10px;
+  width: 80%;
+ 
  }
 
- #text {
+ #text1 {
+    width: 95%;
     padding: 10px;
+    border: 1px solid rgb(187, 186, 186);
+    border-radius: 15px;
  }
+ #text2 {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid rgb(187, 186, 186);
+  border-radius: 15px;
+}

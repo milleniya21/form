@@ -1,4 +1,3 @@
-
 import './App.css';
 import Configure from './configure/configure';
 import Box from './desc_box/box';
@@ -21,5 +20,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
