@@ -1,11 +1,12 @@
 import React from 'react'
+import './box.css'
 
 function Box () {
   return (
-    <div>
+    <div className='des_box'>
        <p> Product Description </p>
-       <textarea className='desc' rows="20" cols="100"  >
-        Describe your product 
+       <textarea className='desc' rows="10" cols="100"  >
+        Describe your product...
        </textarea>
     </div>
   )

@@ -1,7 +1,10 @@
- .desc
+ .des_box
  {
-    margin: 10px;
-    padding: 10px;
-    font-size: medium;
-    border-radius: 20px;
+   margin:0 20px 020px ;
+   font-weight: bold;
+ }
+ .desc {
+   width: 90%;
+   padding: 20px;
+   color: rgb(136, 135, 135);
  }

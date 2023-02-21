@@ -1,4 +1,39 @@
 .details
 {
     display: flex;
+    margin: 0 20px 0 20px;
+    font-weight: bold;
 }
+.col-1
+ {
+  width: 50%;
+  
+ }
+ .col-2
+ {
+  width: 50%;
+  margin-left:20px ;
+ }
+.close{
+    display: flex;
+    border: 1px solid rgb(187, 186, 186);
+    border-radius: 8px;
+}
+ #text1 {
+    width: 30%;
+    padding: 10px;
+    
+ }
+ #sort{
+    padding: 10px;
+    
+
+ }
+ #text2 {
+    
+  width: 10%;
+  padding: 10px;
+  border: 1px solid rgb(187, 186, 186);
+  border-radius: 5px;
+}
+
