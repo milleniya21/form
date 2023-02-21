@@ -3,7 +3,7 @@ import './configure.css'
 
  function Configure() {
   return (
-    <div>
+    <div >
         <div className='configure_stock'>
             <h2>Configure how stock for this product is tracked: </h2>
             <p>A single variants will be created automatically unless you enable the multiple variant options. </p>
@@ -18,6 +18,7 @@ import './configure.css'
             </form>
         </div>
         <div className='create_btn'>
+          <hr></hr>
              <button>Create Order </button>
         </div>
     </div>
